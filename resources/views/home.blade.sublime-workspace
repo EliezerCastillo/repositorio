@@ -1,0 +1,369 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bel",
+				"belongsToMany"
+			],
+			[
+				"stroke",
+				"strokeStyle"
+			],
+			[
+				"fill",
+				"fillStyle"
+			],
+			[
+				"F",
+				"fillText"
+			],
+			[
+				"s",
+				"stroke"
+			],
+			[
+				"st",
+				"strokeStyle"
+			],
+			[
+				"can",
+				"canvasDemo"
+			],
+			[
+				"A",
+				"Auth"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/ddsw",
+		"/var/www/html/ddsw/app",
+		"/var/www/html/ddsw/app/Http",
+		"/var/www/html/ddsw/app/Http/Controllers",
+		"/var/www/html/ddsw/public",
+		"/var/www/html/ddsw/public/css",
+		"/var/www/html/ddsw/resources",
+		"/var/www/html/ddsw/resources/views",
+		"/var/www/html/ddsw/resources/views/layouts",
+		"/var/www/html/ddsw/routes",
+		"/var/www/html/srh",
+		"/var/www/html/srh/config"
+	],
+	"file_history":
+	[
+		"/home/administrador/Escritorio/transparencia/conecta.php",
+		"/home/administrador/Escritorio/transparencia/directorio/Transparencia/Include.php",
+		"/home/administrador/Escritorio/transparencia/portal/index.php",
+		"/home/administrador/Escritorio/transparencia/index.php",
+		"/home/administrador/Descargas/index2.php",
+		"/home/administrador/Descargas/index.php",
+		"/home/administrador/Escritorio/transparencia/index2.php",
+		"/home/administrador/Descargas/conecta.php",
+		"/var/www/html/ddsw/public/css/bootstrap-reset.css",
+		"/var/www/html/ddsw/public/css/style.css",
+		"/var/www/html/ddsw/app/Http/Controllers/HomeController.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/app/Http/Controllers/PerfilmanagerController.php",
+		"/var/www/html/srh/app/Escom/App/Menu.php",
+		"/var/www/html/srh/app/Models/TREE/TModule.php",
+		"/var/www/html/srh/app/Escom/Acl/Acl.php",
+		"/var/www/html/srh/app/Escom/Acl/PermissionsProviderAbstract.php",
+		"/var/www/html/srh/app/Escom/Lib/Hash.php",
+		"/var/www/html/srh/app/Escom/Lib/EMLib.php",
+		"/var/www/html/srh/app/Escom/Form/FieldFacade.php",
+		"/var/www/html/srh/app/Escom/Form/FieldBuilder.php",
+		"/var/www/html/srh/app/Escom/Auth/AuthServiceProvider.php",
+		"/var/www/html/srh/app/Providers/SrhConfigServiceProvider.php",
+		"/var/www/html/srh/app/Escom/Auth/EMLogAccess.php",
+		"/var/www/html/srh/app/Escom/Auth/UserProvider.php",
+		"/var/www/html/srh/app/Escom/Config/helpers.php",
+		"/var/www/html/srh/config/user-settings.php",
+		"/var/www/html/srh/config/settings.php",
+		"/var/www/html/ddsw/app/Http/Controllers/Auth/LoginController.php",
+		"/var/www/html/ddsw/vendor/nesbot/carbon/src/Carbon/Carbon.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Auth/AuthManager.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/Bican/Roles/Traits/RoleHasRelations.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Auth/GenericUser.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Auth/GuardHelpers.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Auth/Access/Gate.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Auth/Access/AuthorizationException.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Auth/CreatesUserProviders.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authorize.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Auth/Middleware/AuthenticateWithBasicAuth.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Auth/Middleware/Authenticate.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Auth/Access/Response.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Access/Authorizable.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Contracts/Auth/UserProvider.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Authenticatable.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Contracts/Auth/Guard.php",
+		"/var/www/html/ddsw/config/auth.php",
+		"/var/www/html/ddsw/config/services.php",
+		"/var/www/html/ddsw/config/site.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/resources/views/layouts/header.blade.php",
+		"/var/www/html/ddsw/resources/views/layouts/header.blade.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/resources/views/layouts/app.blade.php",
+		"/var/www/html/ddsw/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/Bican/Roles/Traits/Slugable.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/Bican/Roles/RolesServiceProvider.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/Bican/Roles/Middleware/VerifyPermission.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/Bican/Roles/Middleware/VerifyLevel.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/Bican/Roles/Middleware/VerifyRole.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/Bican/Roles/Models/Role.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/Bican/Roles/Models/Permission.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/config/roles.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/Bican/Roles/Exceptions/RoleDeniedException.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/vendor/bican/roles/src/Bican/Roles/Contracts/RoleHasRelations.php",
+		"/var/www/html/ddsw/resources/views/layouts/menu.blade.php",
+		"/var/www/html/ddsw/resources/views/layouts/app.blade.php",
+		"/var/www/html/ddsw/public/css/app.css",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/public/css/app.css",
+		"/var/www/html/ddsw/resources/views/home.blade.php",
+		"/home/administrador/Escritorio/ddsw/resources/views/layouts/app.blade.php",
+		"/home/administrador/index.php",
+		"/home/administrador/VerificaEntrada.php",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/Librerias/Password.phtml",
+		"/home/administrador/validaacceso.php",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/Librerias/ConfNivel1.inc",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/Clases/CSesiones.php",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/Librerias/Libreria.phtml",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/Clases/CBaseDatos.php",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/Librerias/Configuracion.phtml",
+		"/home/administrador/Configuracion.phtml",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/InicioN.php",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/Cabecera.php",
+		"/home/administrador/Escritorio/noe codigo/denuncias/dispositivo.php",
+		"/home/administrador/wp-config.php",
+		"/home/administrador/Escritorio/noe codigo/denuncias/inicio/Librerias/Configuracion.phtml",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/VerificaEntrada.php",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/Librerias/ConfNivel3.inc",
+		"/home/administrador/Escritorio/noe codigo/denuncias/sistemadenuncia/Librerias/ConfNivel2.inc",
+		"/home/administrador/index2.php",
+		"/var/www/html/ddsw/routes/web.php",
+		"/media/administrador/IR5_CPRA_X64FREV_ES-ES_DV9/app.blade.php",
+		"/home/administrador/ddsw/resources/views/auth/login.blade.php",
+		"/home/administrador/ddsw/resources/views/home.blade.php",
+		"/home/administrador/ddsw/resources/views/welcome.blade.php",
+		"/media/administrador/IR5_CPRA_X64FREV_ES-ES_DV9/ddsw/app/Mod.php",
+		"/media/administrador/IR5_CPRA_X64FREV_ES-ES_DV9/ddsw/resources/assets/js/bootstrap.js",
+		"/media/administrador/IR5_CPRA_X64FREV_ES-ES_DV9/ddsw/resources/assets/js/app.js",
+		"/home/administrador/declaranetci/resources/views/perfil.blade.php",
+		"/var/www/html/ddsw/resources/views/welcome.blade.php",
+		"/home/administrador/declaranetci/public/index.php",
+		"/home/administrador/declaranetci/public/web.config",
+		"/var/www/html/ddsw/resources/views/layouts/app.blade.bk.php",
+		"/home/administrador/declaranetci/resources/views/layouts/menu.blade.php",
+		"/var/www/html/ddsw/resources/views/layouts/app.bladex.php",
+		"/home/administrador/declaranetci/resources/views/layouts/app.blade.php",
+		"/home/administrador/declaranetci/resources/views/layouts/app.blade.bk.php",
+		"/home/administrador/Escritorio/noe codigo/VerificaEntrada.php",
+		"/var/www/html/ddsw/app/Http/Controllers/AdministraUsuarioController.php",
+		"/var/www/html/ddsw/app/Mod.php",
+		"/var/www/html/ddsw/app/Role.php",
+		"/home/administrador/Escritorio/app/Http/Controllers/AdministraUsuarioController.php",
+		"/home/administrador/Escritorio/app/Module.php",
+		"/var/www/html/ddsw/app/User.php",
+		"/home/administrador/Escritorio/app/Role.php",
+		"/var/www/html/ddsw/app/rolmod.php",
+		"/var/www/html/srh/config/database.php",
+		"/var/www/html/ddsw/database/migrations/2018_07_23_174514_acceso_modulo_rol.php",
+		"/var/www/html/ddsw/database/migrations/2018_07_23_155823_modulo.php",
+		"/var/www/html/ddsw/config/database.php",
+		"/var/www/html/ddsw/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/database/migrations/2017_12_08_193738_crear_actividad_poder.php",
+		"/home/administrador/Escritorio/respaldo www/www/declaranetci/app/DPCIactividadpoder.php",
+		"/var/www/html/canvas.html",
+		"/home/administrador/Escritorio/canvas-carita.html",
+		"/home/administrador/Escritorio/canvas-nube.html",
+		"/home/administrador/reporte_asistencias_index.php",
+		"/home/administrador/rpt_asistencia_mensual.php",
+		"/home/administrador/reportes.class.php",
+		"/media/administrador/IR5_CPRA_X64FREV_ES-ES_DV9/html5/wireframe.html",
+		"/media/administrador/IR5_CPRA_X64FREV_ES-ES_DV9/html5/xml.html",
+		"/home/administrador/Escritorio/canvas.html"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"panel-default",
+			"panel",
+			"footer",
+			"heading",
+			"wraper",
+			"left-panel",
+			"body",
+			"wraper",
+			"content",
+			"left-panel",
+			"left-aside",
+			"content",
+			"wraper",
+			"content",
+			"wraper",
+			"wrapper",
+			"container-fluid",
+			"wraper",
+			"content",
+			"left-panel",
+			"leff",
+			"nav-label",
+			"left-panel",
+			"ip",
+			"body",
+			"ereg_replace"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "home.blade.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
